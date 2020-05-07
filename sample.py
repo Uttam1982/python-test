@@ -1,10 +1,8 @@
-import math
-import os
 import sys
 
 # print(sys.version)
-print(sys.executable)
-
+# print(sys.executable)
+    
 
 def sayHello(who_to_greet):
     test = "test"
@@ -13,4 +11,4 @@ def sayHello(who_to_greet):
 
 
 print(sayHello("World"))
-print(sayHello("Uttam"))
+# print(sayHello("Uttam"))
